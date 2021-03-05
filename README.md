@@ -13,6 +13,7 @@ Communication:
 * Lounge at guest house
 * Dorm at guest house
 * Campfire
+* Islet
 
 Interaction:
 
